@@ -7,7 +7,7 @@
 ___________________
 
 
-I devoted a total of 7 hours to this challenge. I am quite happy with some of the ways that I approached this problem, and a little less so with others. In the interest of growth, I compiled a couple of things that I think I could have done better.
+I devoted a total of 6 hours to this challenge. I am quite happy with some of the ways that I approached this problem, and a little less so with others. In the interest of growth, I compiled a couple of things that I think I could have done better.
 
 ### Known Issues with the project
 

@@ -4,10 +4,12 @@
 
 1. SDWebImage
 
+___________________
+
 
 I devoted a total of 6 hours to this challenge. I am quite happy with some of the ways that I approached this problem, and a little less so with others. In the interest of growth, I compiled a couple of things that I think I could have done better.
 
-### Known Issues with my project
+### Known Issues with the project
 
 * Some matched cards' doodles some times like to come back to life even though they have no business being there. This could be due to a shady interaction with the cell's dequeueing process. 
 

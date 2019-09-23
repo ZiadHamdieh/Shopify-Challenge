@@ -21,6 +21,6 @@ In order to keep the ball rolling, I decided to create a dummy array holding the
 
 Things I learned from this challenge:
 
-* I had initially over-designed the network layer, which led to me focusing on details (e.g. handling URLSession responses & errors) which were maybe out of scope and most of which I ultimately scrapped. I could have invested this time towards coding the algorithm for the randomization of the cards.
+* I had initially over-designed the network layer, which led to me focusing on details (e.g. handling URLSession responses & errors) which were maybe out of scope and most of which I ultimately scrapped. I could have invested this time towards coding the algorithm for the randomization of the cards, or towards a header to keep track of the matched cards.
 
 * Dealing with portrait/landscape mode turned out more challenging than I had initially imagined, potentially caused (I believe) by the dequeuing of cells that had already been matched or uncovered. In hindsight, I should have devoted a higher percentage of my time towards this particular part of the challenge.
